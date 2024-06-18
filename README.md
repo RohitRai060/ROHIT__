@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Rohit Rai</h1>
 <h5 align="center">
-I am a 1st-year student pursuing Master degree in Computer Application(MCA) studies with a specialization of JAVA, from SAGE University INDORE. I am a Data Science enthusiast, App developer, and a Programmer. 
+I am a 4st-year student pursuing B.Tech in Computer Application(AI&DS) studies with a specialization of Python, from Mitrc Collage Akwar. I am a Data Science enthusiast, App developer, and a Programmer. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag0134&label=Profile%20views&color=0e75b6&style=flat" alt="anurag0134" /> </p>
 <p>
